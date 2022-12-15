@@ -1,0 +1,8 @@
+.container-2 {
+  background-image: url("/public/images/slider2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: sticky;
+  background-size: cover;
+  padding: 25px 0;
+}
